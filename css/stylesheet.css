@@ -22,11 +22,16 @@ html {
   max-width: 100%;
 }
 
+.header {
+  padding-left: 4%;
+  padding-bottom: 2%;
+}
+
 .large-header {
   color: peru;
+  display: inline;
   font-family: Pacifico, Helvetica, Arial, sans-serif;
   font-size: 6rem;
-  padding-left: 4%;
 }
 
 .list-item {
