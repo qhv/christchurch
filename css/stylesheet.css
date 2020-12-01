@@ -57,6 +57,10 @@ html {
   list-style-type: square;
 }
 
+.text-paragraph {
+  width: 100%;
+}
+
 .text-section {
   max-width: 600px;
   width: 90%;
