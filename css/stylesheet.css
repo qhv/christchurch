@@ -1,3 +1,7 @@
+body {
+  margin: auto;
+}
+
 html {
   font-size: 16px;
 }
@@ -58,14 +62,11 @@ html {
 }
 
 .text-paragraph {
-  width: 100%;
 }
 
 .text-section {
   max-width: 600px;
-  width: 90%;
   padding: 5px;
-  margin: 10px;
 }
 
 .text-section em {
