@@ -22,6 +22,10 @@ html {
   max-width: 100%;
 }
 
+.colored-string {
+  color: darkgoldenrod;
+}
+
 .header {
   padding-left: 4%;
   padding-bottom: 2%;
@@ -63,8 +67,4 @@ html {
 .text-section {
   max-width: 600px;
   padding: 5px;
-}
-
-.text-section em {
-  color: darkgoldenrod;
 }
