@@ -61,10 +61,22 @@ html {
   list-style-type: square;
 }
 
-.text-paragraph {
-}
-
 .text-section {
   max-width: 600px;
   padding: 5px;
+}
+
+@media (max-width: 600px) {
+  .about-city {
+    flex-direction: column;
+  }
+
+  .photo-container {
+    max-width: 100%;
+    padding-right: 10px;
+  }
+
+  .large-header {
+    font-size: 3rem;
+  }
 }
